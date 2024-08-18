@@ -20,7 +20,7 @@ hire_date DATE
 
 departments
 -
-dept_no INTEGER PK
+dept_no VARCHAR PK
 dept_name VARCHAR
 
 dept_manager
